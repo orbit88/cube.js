@@ -861,10 +861,10 @@
     ramda "^0.27.0"
     redis "^3.0.2"
 
-"@cubejs-backend/schema-compiler@^0.23.8":
-  version "0.23.8"
-  resolved "https://registry.yarnpkg.com/@cubejs-backend/schema-compiler/-/schema-compiler-0.23.8.tgz#2996a10b438b3708a358b5b8ff4fc1621b0f0d80"
-  integrity sha512-O+0QWAjvoHU9KANLry/9n0ZShA4h09GqvjftKl5UHbITZ/bwvT4etX+ssAoEyVKrb5otfgNU96cZUMyYUc1+6w==
+"@cubejs-backend/schema-compiler@^0.23.11":
+  version "0.23.15"
+  resolved "https://registry.yarnpkg.com/@cubejs-backend/schema-compiler/-/schema-compiler-0.23.15.tgz#35075e945ebe9432354ffb4762581051fe2328f2"
+  integrity sha512-Z1MvZvfIGjxxHJF2PpW0IsXEIj15tJeq42HP8kk3Rw8Hd7jyG7+vFl39M/W6ejpD9YpaZKF4X0nIjwNhCh5sQA==
   dependencies:
     "@babel/core" "^7.4.0"
     "@babel/generator" "^7.4.0"
@@ -874,7 +874,7 @@
     "@babel/traverse" "^7.4.0"
     "@babel/types" "^7.4.0"
     "@hapi/joi" "^15.1.1"
-    antlr4 "^4.8.0"
+    antlr4 "4.8.0"
     cron-parser "^2.16.3"
     humps "^2.0.1"
     inflection "^1.12.0"
@@ -1265,7 +1265,7 @@ ansi-styles@^4.1.0:
   dependencies:
     color-convert "^2.0.1"
 
-antlr4@^4.8.0:
+antlr4@4.8.0:
   version "4.8.0"
   resolved "https://registry.yarnpkg.com/antlr4/-/antlr4-4.8.0.tgz#f938ec171be7fc2855cd3a533e87647185b32b6a"
   integrity sha512-en/MxQ4OkPgGJQ3wD/muzj1uDnFSzdFIhc2+c6bHZokWkuBb6RRvFjpWhPxWLbgQvaEzldJZ0GSQpfSAaE3hqg==
@@ -2910,9 +2910,9 @@ he@1.2.0:
   integrity sha512-F/1DnUGPopORZi0ni+CvrCgHQ5FyEAHRLSApuYWMmrbSwoN2Mn/7k+Gl38gJnR7yyDZk6WLXwiGod1JOWNDKGw==
 
 hosted-git-info@^2.1.4:
-  version "2.8.8"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.8.tgz#7539bd4bc1e0e0a895815a2e0262420b12858488"
-  integrity sha512-f/wzC2QaWBs7t9IYqB4T3sR1xviIViXJRJTWBlx2Gf3g0Xi5vI7Yy4koXQ1c9OYDGHN9sBy1DQ2AB8fqZBWhUg==
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
+  integrity sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==
 
 html-encoding-sniffer@^1.0.2:
   version "1.0.2"
